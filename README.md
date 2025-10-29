@@ -61,7 +61,7 @@ Ambas partes do código tem alguns comentários apenas informando onde cada modi
 ## 🌐 Acesso ao Projeto
 
 Você pode acessar o projeto publicado através do link abaixo:  
-👉 [**Acessar o Projeto**](https://seu-usuario.github.io/nome-do-projeto/)
+👉 [**Acessar o Projeto**](https://lucas-santos-morais.github.io/API-Rick-and-Morty/)
 
 ---
 
