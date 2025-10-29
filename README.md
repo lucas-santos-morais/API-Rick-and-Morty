@@ -26,7 +26,7 @@
 ## 📘 Descrição do Projeto
 
 <p align="justify">
-Este projeto foi desenvolvido com obejtivo de entregar uma atividade da faculdade UniFECAF, possui códigos simples de HTML e CSS com foco no Java Script. O java irá consumir uma API na ocasião a escolhida foi a do Rick and Morty, com isso na tela irá apartecer 24 personagens de maneira aleatória na tela toda vez que atualizar a página.
+Este projeto foi desenvolvido com objetivo de entregar uma atividade da faculdade UniFECAF, possui códigos simples de HTML e CSS com foco no Java Script. O java irá consumir uma API na ocasião a escolhida foi a do Rick and Morty, com isso na tela irá apartecer 24 personagens de maneira aleatória toda vez que atualizar a página.
 
 O projeto tem como objetivo usar no Java Scrip as funções: 
 * fetch
