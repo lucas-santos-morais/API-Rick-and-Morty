@@ -77,16 +77,9 @@ Você pode acessar o projeto publicado através do link abaixo:
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Meu nome é **Lucas Morais**, sou apaixonado por tecnologia e segurança da informação.  
-Atualmente trabalho como **Analista de Suporte Júnior na Rede D'Or** e estudo **Computação e Redes**.  
+Olá! Meu nome é **Lucas Morais**, sou apaixonado por tecnologia e segurança da informação.    
 
 🔗 Me siga no GitHub: [Lucas Morais](https://github.com/lucas-santos-morais)
-
-<p align="center">
-  <img width="200" height="200" alt="Gemini_Generated_Image_4p72ng4p72ng4p72" src="https://github.com/user-attachments/assets/2a92b4fd-1cb5-4fd9-a208-d4b4419f3325" />
-</p>
-
-</p>
 
 ---
 
